@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            // Cashmoney
             string lastname, firstname;
             double km1, km2, km3, average, leg1, leg2, hypotenuse;
             int curyear, birth, age, addtotal, add1, add2, add3;
